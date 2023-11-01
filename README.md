@@ -11,6 +11,7 @@ Imagenes del programa de PLC del proyecto
 ![image](https://github.com/GDIMPA/GDIMPA/assets/147995244/59f73ff3-1d92-4662-9499-b2a587d6fde3)
 
 ![image](https://github.com/GDIMPA/GDIMPA/assets/147995244/a19fbb8e-0020-4146-8f4d-c2b8ed466c90)
+![image](https://github.com/GDIMPA/GDIMPA/assets/147995244/3c2aa269-0c4a-4a63-8bcf-bc1668127292)
 
 ![image](https://github.com/GDIMPA/GDIMPA/assets/147995244/d72d2fc6-bf74-4c08-a219-b9882957946a)
 
